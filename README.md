@@ -21,7 +21,7 @@ En `ejercitación extra` irán programas que no necesariamente vienen de una con
 
 En `guias-consignas` irán los ejercicios propuestos por la cátedra, mientras que en `guias-soluciones` irá la ejercitación mía a medida que vaya resolviéndolas. 
 
-`teorico` es un rejunte de distintas cosas provistas por la catedra. Una que me llama la atención es la explicación a Edsger W. Dijkstra sobre la notación utilizada. 
+`teorico` es un rejunte de distintas cosas provistas por la catedra. Una que llama la atención es la explicación de Edsger W. Dijkstra sobre la notación utilizada. 
 
 
 
