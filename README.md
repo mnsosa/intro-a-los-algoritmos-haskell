@@ -17,7 +17,7 @@ La organización será de la siguiente manera:
  ┗ 📂teorico
 </pre>
 
-En `ejercitación extra` irán programas que no necesariamente vienen de una consigna, o que viene de hacer ejercicios propuestos de otro lado que no sean las guías.
+En `ejercitación-extra` irán programas que no necesariamente vienen de una consigna, o que viene de hacer ejercicios propuestos de otro lado que no sean las guías.
 
 En `guias-consignas` irán los ejercicios propuestos por la cátedra, mientras que en `guias-soluciones` irá la ejercitación mía a medida que vaya resolviéndolas. 
 
