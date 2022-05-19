@@ -40,3 +40,16 @@ cambioDeBaseABase (x:xs) b_in b_out = cambioBase (aBaseDecimal (x:xs) b_in) b_ou
 -- Ejemplo de uso
 -- cambioDeBaseABase [2, 2, 3, 4] 5 2
 -- Cambia el número 2234 de base 5 y a la base 2
+
+
+--------------------------------------------------------------------------
+
+-- Cálculo del MCD (Máximo Común Divisor) utilizando el algoritmo
+-- del mismísimo señor Euclides.
+
+mcd_euclides :: Int -> Int -> Int
+
+mcd_euclides r 0 = r
+mcd_euclides a b = mcd_euclides b (mod a b)
+
+
