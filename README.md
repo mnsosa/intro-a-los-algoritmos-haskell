@@ -1,6 +1,6 @@
 # Introducción a los Algoritmos
 
-Se irán subiendo la ejercitación necesaria para la materia. Se basa en las guías de las materia y en el libro: [Discrete Mathematics Using a Computer, Cordelia Hall and John O'Donnell](https://famaf.aulavirtual.unc.edu.ar/pluginfile.php/125564/mod_resource/content/1/Springer.pdf). 
+Se irá subiendo la ejercitación necesaria para la materia. Se basa en las guías de las materia y en el libro: [Discrete Mathematics Using a Computer, Cordelia Hall and John O'Donnell](https://famaf.aulavirtual.unc.edu.ar/pluginfile.php/125564/mod_resource/content/1/Springer.pdf). 
 
 También se tiene el libro [Cálculo de Programas](https://drive.google.com/file/d/1oXry8qit4uxr01NLi3Cb6fyceFxKssrT/view), por los profesores Javier Blanco, Silvina Smith, Damián Barsotti. 
 
